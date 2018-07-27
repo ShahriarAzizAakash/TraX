@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "485417132743",
+    "firebase_url": "https://traxapp-8f921.firebaseio.com",
+    "project_id": "traxapp-8f921",
+    "storage_bucket": "traxapp-8f921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485417132743:android:7ac24121dc5caba6",
+        "android_client_info": {
+          "package_name": "bd.edu.diu.trax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485417132743-vvqd2fhcl7pkkbn2udkk8gubgmgnlqkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bd.edu.diu.trax",
+            "certificate_hash": "8e0a14d6d119528b2919bd90d9d7fe5338abedf6"
+          }
+        },
+        {
+          "client_id": "485417132743-emfj34gnn9dq7mac75thhibrb3533rlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Ukryl1IHOWr5g65bpGHqqIk3ceoyIZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485417132743-emfj34gnn9dq7mac75thhibrb3533rlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
